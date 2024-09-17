@@ -18,6 +18,11 @@
     margin-left: 20px; 
   }
   
-
+  .uppercase {
+    text-transform: uppercase; 
+    color: #4CAF50; 
+    font-family: 'Courier New', Courier, monospace; 
+    padding: 5px;
+  }
   
   
