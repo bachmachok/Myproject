@@ -1,7 +1,18 @@
 .simple-header {
-    font-size: 30px;
+    font-size: 28px;
     color: #4a90e2;
     text-align: left;
     margin-bottom: 15px;
   }
+  .red-background {
+    background-color: #f44336; 
+    color: white; 
+    padding: 10px; 
+    margin-bottom: 5px; 
+  }
+  
+
+  
+
+  
   
